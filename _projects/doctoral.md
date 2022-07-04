@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Doctoral
+title: doctoral
 description: Sept 2017 - Nov 2020
 img: assets/img/3.jpg
 importance: 2
