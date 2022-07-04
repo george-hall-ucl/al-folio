@@ -195,7 +195,7 @@ jekyll-archives:
 scholar:
 
   last_name: Hall
-  first_name: [George, T.]
+  first_name: ["George T", "George"]
 
   style: apa
   locale: en
