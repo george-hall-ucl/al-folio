@@ -9,14 +9,14 @@ display_categories: [work, fun]
 dropdown: true
 horizontal: false
 children:
-    - title: Postdoctoral
-      permalink: /projects/1_project/
+    - title: postdoctoral
+      permalink: /projects/postdoctoral/
     - title: divider
-    - title: Doctoral
-      permalink: /projects/2_project/
+    - title: doctoral
+      permalink: /projects/doctoral/
     - title: divider
-    - title: Predoctoral
-      permalink: /projects/3_project/
+    - title: predoctoral
+      permalink: /projects/predoctoral/
 ---
 
 <!-- pages/projects.md -->
