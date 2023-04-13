@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <br />
-I am a computer scientist developing algorithms for the analysis of single-cell RNAseq data. After completing my PhD in computer science, I decided to move fields for my postdoctoral research. I therefore moved to the UCL Great Ormond Street Institute of Child health, the research wing of the world-renowned children's hospital. Since moving here, I have been focussed on the analysis of single-cell RNA sequencing data. In particular, I want to use this technology to develop computational methods for the quality control of regenerative medicine therapies.\
+I am a computer scientist developing algorithms for the analysis of single-cell RNAseq data. After [completing my PhD in computer science](projects/doctoral), for my postdoctoral research I decided to take a position where algorithm design can be motivated by important real-world applications. I therefore moved to the UCL Great Ormond Street Institute of Child health, which allows me to develop algorithms to meet the needs of the world-renowned children's hospital. Since moving here, I have been focussed on the analysis of single-cell RNA sequencing data. A summary of my postdoctoral research can be found [here](projects/postdoctoral).\
 <br />
 <br />
 <br />
